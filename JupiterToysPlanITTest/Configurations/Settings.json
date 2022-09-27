@@ -1,0 +1,5 @@
+{
+  "BaseURL": "https://jupiter.cloud.planittesting.com/#/",
+  "Browser": "Chrome",
+  "WaitingTime": 30
+}
